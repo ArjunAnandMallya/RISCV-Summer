@@ -1,0 +1,27 @@
+0.6
+2018.2
+Jun 14 2018
+20:07:38
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_alu.v,1750401282,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_core.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_alu,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_core.v,1750335028,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_csr.v,,riscv_core,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_csr.v,1750401277,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_csr_regfile.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_csr,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_csr_regfile.v,1750401295,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_decode.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_csr_regfile,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_decode.v,1750401281,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_decoder.v,,riscv_decode,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_decoder.v,1750401280,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_divider.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_decoder,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,1750416259,verilog,,,,,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_divider.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_exec.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_divider,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_exec.v,1750401283,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_fetch.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_exec,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_fetch.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_issue.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_fetch,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_issue.v,1750335379,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_lsu.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_issue,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_lsu.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_mmu.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_lsu;riscv_lsu_fifo,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_mmu.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_multiplier.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_mmu,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_multiplier.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_pipe_ctrl.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_multiplier,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_pipe_ctrl.v,1631987453,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_regfile.v,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_defs.v,riscv_pipe_ctrl,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_regfile.v,1750400485,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_xilinx_2r1w.v,,riscv_regfile,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_xilinx_2r1w.v,1631987453,verilog,,,,riscv_xilinx_2r1w,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sim_1/new/riscv_tb.v,1750419156,verilog,,,,riscv_tb,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/instruction_memory.v,1750418955,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/memory.v,,instruction_memory,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/matmul_controller.sv,1750417319,systemVerilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/systolic_array.sv,,matmul_controller,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/memory.v,1750401367,verilog,,/home/arjunmallay/riscv-oirg-withmatmul/riscv-master/core/riscv/riscv_alu.v,,memory,,,,,,,,
+/home/arjunmallay/riscv-oirg-withmatmul/riscv-oirg-withmatmul.srcs/sources_1/new/systolic_array.sv,1750401369,systemVerilog,,,,systolic_array,,,,,,,,

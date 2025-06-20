@@ -1,0 +1,366 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Displaying Data Written to memory
+FTCH PC=         0 instr=0x00000013
+FTCH PC=         0 instr=0x00000013
+FTCH PC=         1 instr=0x02400493
+FTCH PC=         2 instr=0x00100293
+FTCH PC=         3 instr=0x00542023
+FTCH PC=         4 instr=0x0054a023
+[               21000] Writ to 0x00000000, data 0x00000001, mask 0b1111
+FTCH PC=         5 instr=0x00200293
+[               25000] Writ to 0x00000024, data 0x00000001, mask 0b1111
+FTCH PC=         6 instr=0x00542223
+FTCH PC=         7 instr=0x0054a223
+[               31000] Writ to 0x00000004, data 0x00000002, mask 0b1111
+FTCH PC=         8 instr=0x00300293
+[               35000] Writ to 0x00000028, data 0x00000002, mask 0b1111
+FTCH PC=         9 instr=0x00542423
+FTCH PC=        10 instr=0x0054a423
+[               41000] Writ to 0x00000008, data 0x00000003, mask 0b1111
+FTCH PC=        11 instr=0x00400293
+[               45000] Writ to 0x0000002c, data 0x00000003, mask 0b1111
+FTCH PC=        12 instr=0x00542623
+FTCH PC=        13 instr=0x0054a623
+[               51000] Writ to 0x0000000c, data 0x00000004, mask 0b1111
+FTCH PC=        14 instr=0x00500293
+[               55000] Writ to 0x00000030, data 0x00000004, mask 0b1111
+FTCH PC=        15 instr=0x00542823
+FTCH PC=        16 instr=0x0054a823
+[               61000] Writ to 0x00000010, data 0x00000005, mask 0b1111
+FTCH PC=        17 instr=0x00600293
+[               65000] Writ to 0x00000034, data 0x00000005, mask 0b1111
+FTCH PC=        18 instr=0x00542a23
+FTCH PC=        19 instr=0x0054aa23
+[               71000] Writ to 0x00000014, data 0x00000006, mask 0b1111
+FTCH PC=        20 instr=0x00700293
+[               75000] Writ to 0x00000038, data 0x00000006, mask 0b1111
+FTCH PC=        21 instr=0x00542c23
+FTCH PC=        22 instr=0x0054ac23
+[               81000] Writ to 0x00000018, data 0x00000007, mask 0b1111
+FTCH PC=        23 instr=0x00800293
+[               85000] Writ to 0x0000003c, data 0x00000007, mask 0b1111
+FTCH PC=        24 instr=0x00542e23
+FTCH PC=        25 instr=0x0054ae23
+[               91000] Writ to 0x0000001c, data 0x00000008, mask 0b1111
+FTCH PC=        26 instr=0x00900293
+[               95000] Writ to 0x00000040, data 0x00000008, mask 0b1111
+FTCH PC=        27 instr=0x02542023
+FTCH PC=        28 instr=0x0254a023
+[              101000] Writ to 0x00000020, data 0x00000009, mask 0b1111
+FTCH PC=        29 instr=0x04800e13
+[              105000] Writ to 0x00000044, data 0x00000009, mask 0b1111
+FTCH PC=        30 instr=0x00940e0b
+FTCH PC=        31 instr=0x00000013
+[              275000] Writ to 0x00000048, data 0x0000001e, mask 0b1111
+[              277000] Writ to 0x00000048, data 0x0000001e, mask 0b1111
+[              279000] Writ to 0x00000048, data 0x0000001e, mask 0b1111
+[              281000] Writ to 0x0000004c, data 0x00000024, mask 0b1111
+[              283000] Writ to 0x0000004c, data 0x00000024, mask 0b1111
+[              285000] Writ to 0x00000050, data 0x0000002a, mask 0b1111
+[              287000] Writ to 0x00000050, data 0x0000002a, mask 0b1111
+[              289000] Writ to 0x00000054, data 0x00000042, mask 0b1111
+[              291000] Writ to 0x00000054, data 0x00000042, mask 0b1111
+[              293000] Writ to 0x00000058, data 0x00000051, mask 0b1111
+[              295000] Writ to 0x00000058, data 0x00000051, mask 0b1111
+[              297000] Writ to 0x0000005c, data 0x00000060, mask 0b1111
+[              299000] Writ to 0x0000005c, data 0x00000060, mask 0b1111
+[              301000] Writ to 0x00000060, data 0x00000066, mask 0b1111
+[              303000] Writ to 0x00000060, data 0x00000066, mask 0b1111
+[              305000] Writ to 0x00000064, data 0x0000007e, mask 0b1111
+[              307000] Writ to 0x00000064, data 0x0000007e, mask 0b1111
+[              309000] Writ to 0x00000068, data 0x00000096, mask 0b1111
+[              311000] Writ to 0x00000068, data 0x00000096, mask 0b1111
+[              313000] Writ to 0x0000006c, data 0xxxxxxxxx, mask 0b1111
+[              315000] Writ to 0x0000006c, data 0xxxxxxxxx, mask 0b1111
+[              317000] Writ to 0x00000070, data 0xxxxxxxxx, mask 0b1111
+[              319000] Writ to 0x00000070, data 0xxxxxxxxx, mask 0b1111
+[              321000] Writ to 0x00000074, data 0xxxxxxxxx, mask 0b1111
+[              323000] Writ to 0x00000074, data 0xxxxxxxxx, mask 0b1111
+[              325000] Writ to 0x00000078, data 0xxxxxxxxx, mask 0b1111
+[              327000] Writ to 0x00000078, data 0xxxxxxxxx, mask 0b1111
+[              329000] Writ to 0x0000007c, data 0xxxxxxxxx, mask 0b1111
+[              331000] Writ to 0x0000007c, data 0xxxxxxxxx, mask 0b1111
+[              333000] Writ to 0x00000080, data 0xxxxxxxxx, mask 0b1111
+[              335000] Writ to 0x00000080, data 0xxxxxxxxx, mask 0b1111
+[              337000] Writ to 0x00000084, data 0xxxxxxxxx, mask 0b1111
+[              339000] Writ to 0x00000084, data 0xxxxxxxxx, mask 0b1111
+[              341000] Writ to 0x00000088, data 0xxxxxxxxx, mask 0b1111
+[              343000] Writ to 0x00000088, data 0xxxxxxxxx, mask 0b1111
+[              345000] Writ to 0x0000008c, data 0xxxxxxxxx, mask 0b1111
+[              347000] Writ to 0x0000008c, data 0xxxxxxxxx, mask 0b1111
+[              349000] Writ to 0x00000090, data 0xxxxxxxxx, mask 0b1111
+[              351000] Writ to 0x00000090, data 0xxxxxxxxx, mask 0b1111
+[              353000] Writ to 0x00000094, data 0xxxxxxxxx, mask 0b1111
+[              355000] Writ to 0x00000094, data 0xxxxxxxxx, mask 0b1111
+[              357000] Writ to 0x00000098, data 0xxxxxxxxx, mask 0b1111
+[              359000] Writ to 0x00000098, data 0xxxxxxxxx, mask 0b1111
+[              361000] Writ to 0x0000009c, data 0xxxxxxxxx, mask 0b1111
+[              363000] Writ to 0x0000009c, data 0xxxxxxxxx, mask 0b1111
+[              365000] Writ to 0x000000a0, data 0xxxxxxxxx, mask 0b1111
+[              367000] Writ to 0x000000a0, data 0xxxxxxxxx, mask 0b1111
+[              369000] Writ to 0x000000a4, data 0xxxxxxxxx, mask 0b1111
+[              371000] Writ to 0x000000a4, data 0xxxxxxxxx, mask 0b1111
+[              373000] Writ to 0x000000a8, data 0xxxxxxxxx, mask 0b1111
+[              375000] Writ to 0x000000a8, data 0xxxxxxxxx, mask 0b1111
+[              377000] Writ to 0x000000ac, data 0xxxxxxxxx, mask 0b1111
+[              379000] Writ to 0x000000ac, data 0xxxxxxxxx, mask 0b1111
+[              381000] Writ to 0x000000b0, data 0xxxxxxxxx, mask 0b1111
+[              383000] Writ to 0x000000b0, data 0xxxxxxxxx, mask 0b1111
+[              385000] Writ to 0x000000b4, data 0xxxxxxxxx, mask 0b1111
+[              387000] Writ to 0x000000b4, data 0xxxxxxxxx, mask 0b1111
+[              389000] Writ to 0x000000b8, data 0xxxxxxxxx, mask 0b1111
+[              391000] Writ to 0x000000b8, data 0xxxxxxxxx, mask 0b1111
+[              393000] Writ to 0x000000bc, data 0xxxxxxxxx, mask 0b1111
+[              395000] Writ to 0x000000bc, data 0xxxxxxxxx, mask 0b1111
+[              397000] Writ to 0x000000c0, data 0xxxxxxxxx, mask 0b1111
+[              399000] Writ to 0x000000c0, data 0xxxxxxxxx, mask 0b1111
+[              401000] Writ to 0x000000c4, data 0xxxxxxxxx, mask 0b1111
+[              403000] Writ to 0x000000c4, data 0xxxxxxxxx, mask 0b1111
+[              405000] Writ to 0x000000c8, data 0xxxxxxxxx, mask 0b1111
+[              407000] Writ to 0x000000c8, data 0xxxxxxxxx, mask 0b1111
+[              409000] Writ to 0x000000cc, data 0xxxxxxxxx, mask 0b1111
+[              411000] Writ to 0x000000cc, data 0xxxxxxxxx, mask 0b1111
+[              413000] Writ to 0x000000d0, data 0xxxxxxxxx, mask 0b1111
+[              415000] Writ to 0x000000d0, data 0xxxxxxxxx, mask 0b1111
+[              417000] Writ to 0x000000d4, data 0xxxxxxxxx, mask 0b1111
+[              419000] Writ to 0x000000d4, data 0xxxxxxxxx, mask 0b1111
+FTCH PC=        32 instr=0x00000013
+FTCH PC=        33 instr=0x00000013
+FTCH PC=        34 instr=0x00000013
+FTCH PC=        35 instr=0x00000013
+FTCH PC=        36 instr=0x00000013
+FTCH PC=        37 instr=0x00000013
+FTCH PC=        38 instr=0x00000013
+FTCH PC=        39 instr=0x00000013
+FTCH PC=        40 instr=0x00000013
+FTCH PC=        41 instr=0x00000013
+FTCH PC=        42 instr=0x00000013
+FTCH PC=        43 instr=0x00000013
+FTCH PC=        44 instr=0x00000013
+FTCH PC=        45 instr=0x00000013
+FTCH PC=        46 instr=0x00000013
+FTCH PC=        47 instr=0x00000013
+FTCH PC=        48 instr=0x00000013
+FTCH PC=        49 instr=0x00000013
+FTCH PC=        50 instr=0x00000013
+FTCH PC=        51 instr=0x00000013
+FTCH PC=        52 instr=0x00000013
+FTCH PC=        53 instr=0x00000013
+FTCH PC=        54 instr=0x00000013
+FTCH PC=        55 instr=0x00000013
+FTCH PC=        56 instr=0x00000013
+FTCH PC=        57 instr=0x00000013
+FTCH PC=        58 instr=0x00000013
+FTCH PC=        59 instr=0x00000013
+FTCH PC=        60 instr=0x00000013
+FTCH PC=        61 instr=0x00000013
+FTCH PC=        62 instr=0x00000013
+FTCH PC=        63 instr=0x00000013
+FTCH PC=        64 instr=0x00000013
+FTCH PC=        65 instr=0x00000013
+FTCH PC=        66 instr=0x00000013
+FTCH PC=        67 instr=0x00000013
+FTCH PC=        68 instr=0x00000013
+FTCH PC=        69 instr=0x00000013
+FTCH PC=        70 instr=0x00000013
+FTCH PC=        71 instr=0x00000013
+FTCH PC=        72 instr=0x00000013
+FTCH PC=        73 instr=0x00000013
+FTCH PC=        74 instr=0x00000013
+FTCH PC=        75 instr=0x00000013
+FTCH PC=        76 instr=0x00000013
+FTCH PC=        77 instr=0x00000013
+FTCH PC=        78 instr=0x00000013
+FTCH PC=        79 instr=0x00000013
+FTCH PC=        80 instr=0x00000013
+FTCH PC=        81 instr=0x00000013
+FTCH PC=        82 instr=0x00000013
+FTCH PC=        83 instr=0x00000013
+FTCH PC=        84 instr=0x00000013
+FTCH PC=        85 instr=0x00000013
+FTCH PC=        86 instr=0x00000013
+FTCH PC=        87 instr=0x00000013
+FTCH PC=        88 instr=0x00000013
+FTCH PC=        89 instr=0x00000013
+FTCH PC=        90 instr=0x00000013
+FTCH PC=        91 instr=0x00000013
+FTCH PC=        92 instr=0x00000013
+FTCH PC=        93 instr=0x00000013
+FTCH PC=        94 instr=0x00000013
+FTCH PC=        95 instr=0x00000013
+FTCH PC=        96 instr=0x00000013
+FTCH PC=        97 instr=0x00000013
+FTCH PC=        98 instr=0x00000013
+FTCH PC=        99 instr=0x00000013
+FTCH PC=       100 instr=0x00000013
+FTCH PC=       101 instr=0x00000013
+FTCH PC=       102 instr=0x00000013
+FTCH PC=       103 instr=0x00000013
+FTCH PC=       104 instr=0x00000013
+FTCH PC=       105 instr=0x00000013
+FTCH PC=       106 instr=0x00000013
+FTCH PC=       107 instr=0x00000013
+FTCH PC=       108 instr=0x00000013
+FTCH PC=       109 instr=0x00000013
+FTCH PC=       110 instr=0x00000013
+FTCH PC=       111 instr=0x00000013
+FTCH PC=       112 instr=0x00000013
+FTCH PC=       113 instr=0x00000013
+FTCH PC=       114 instr=0x00000013
+FTCH PC=       115 instr=0x00000013
+FTCH PC=       116 instr=0x00000013
+FTCH PC=       117 instr=0x00000013
+FTCH PC=       118 instr=0x00000013
+FTCH PC=       119 instr=0x00000013
+FTCH PC=       120 instr=0x00000013
+FTCH PC=       121 instr=0x00000013
+FTCH PC=       122 instr=0x00000013
+FTCH PC=       123 instr=0x00000013
+FTCH PC=       124 instr=0x00000013
+FTCH PC=       125 instr=0x00000013
+FTCH PC=       126 instr=0x00000013
+FTCH PC=       127 instr=0x00000013
+FTCH PC=       128 instr=0x00000013
+FTCH PC=       129 instr=0x00000013
+FTCH PC=       130 instr=0x00000013
+FTCH PC=       131 instr=0x00000013
+FTCH PC=       132 instr=0x00000013
+FTCH PC=       133 instr=0x00000013
+FTCH PC=       134 instr=0x00000013
+FTCH PC=       135 instr=0x00000013
+FTCH PC=       136 instr=0x00000013
+FTCH PC=       137 instr=0x00000013
+FTCH PC=       138 instr=0x00000013
+FTCH PC=       139 instr=0x00000013
+FTCH PC=       140 instr=0x00000013
+FTCH PC=       141 instr=0x00000013
+FTCH PC=       142 instr=0x00000013
+FTCH PC=       143 instr=0x00000013
+FTCH PC=       144 instr=0x00000013
+FTCH PC=       145 instr=0x00000013
+FTCH PC=       146 instr=0x00000013
+FTCH PC=       147 instr=0x00000013
+FTCH PC=       148 instr=0x00000013
+FTCH PC=       149 instr=0x00000013
+FTCH PC=       150 instr=0x00000013
+FTCH PC=       151 instr=0x00000013
+FTCH PC=       152 instr=0x00000013
+FTCH PC=       153 instr=0x00000013
+FTCH PC=       154 instr=0x00000013
+FTCH PC=       155 instr=0x00000013
+FTCH PC=       156 instr=0x00000013
+FTCH PC=       157 instr=0x00000013
+FTCH PC=       158 instr=0x00000013
+FTCH PC=       159 instr=0x00000013
+FTCH PC=       160 instr=0x00000013
+FTCH PC=       161 instr=0x00000013
+FTCH PC=       162 instr=0x00000013
+FTCH PC=       163 instr=0x00000013
+FTCH PC=       164 instr=0x00000013
+FTCH PC=       165 instr=0x00000013
+FTCH PC=       166 instr=0x00000013
+FTCH PC=       167 instr=0x00000013
+FTCH PC=       168 instr=0x00000013
+FTCH PC=       169 instr=0x00000013
+FTCH PC=       170 instr=0x00000013
+FTCH PC=       171 instr=0x00000013
+FTCH PC=       172 instr=0x00000013
+FTCH PC=       173 instr=0x00000013
+FTCH PC=       174 instr=0x00000013
+FTCH PC=       175 instr=0x00000013
+FTCH PC=       176 instr=0x00000013
+FTCH PC=       177 instr=0x00000013
+FTCH PC=       178 instr=0x00000013
+FTCH PC=       179 instr=0x00000013
+FTCH PC=       180 instr=0x00000013
+FTCH PC=       181 instr=0x00000013
+FTCH PC=       182 instr=0x00000013
+FTCH PC=       183 instr=0x00000013
+FTCH PC=       184 instr=0x00000013
+FTCH PC=       185 instr=0x00000013
+FTCH PC=       186 instr=0x00000013
+FTCH PC=       187 instr=0x00000013
+FTCH PC=       188 instr=0x00000013
+FTCH PC=       189 instr=0x00000013
+FTCH PC=       190 instr=0x00000013
+FTCH PC=       191 instr=0x00000013
+FTCH PC=       192 instr=0x00000013
+FTCH PC=       193 instr=0x00000013
+FTCH PC=       194 instr=0x00000013
+FTCH PC=       195 instr=0x00000013
+FTCH PC=       196 instr=0x00000013
+FTCH PC=       197 instr=0x00000013
+FTCH PC=       198 instr=0x00000013
+FTCH PC=       199 instr=0x00000013
+FTCH PC=       200 instr=0x00000013
+FTCH PC=       201 instr=0x00000013
+FTCH PC=       202 instr=0x00000013
+FTCH PC=       203 instr=0x00000013
+FTCH PC=       204 instr=0x00000013
+FTCH PC=       205 instr=0x00000013
+FTCH PC=       206 instr=0x00000013
+FTCH PC=       207 instr=0x00000013
+FTCH PC=       208 instr=0x00000013
+FTCH PC=       209 instr=0x00000013
+FTCH PC=       210 instr=0x00000013
+FTCH PC=       211 instr=0x00000013
+FTCH PC=       212 instr=0x00000013
+FTCH PC=       213 instr=0x00000013
+FTCH PC=       214 instr=0x00000013
+FTCH PC=       215 instr=0x00000013
+FTCH PC=       216 instr=0x00000013
+FTCH PC=       217 instr=0x00000013
+FTCH PC=       218 instr=0x00000013
+FTCH PC=       219 instr=0x00000013
+FTCH PC=       220 instr=0x00000013
+FTCH PC=       221 instr=0x00000013
+FTCH PC=       222 instr=0x00000013
+FTCH PC=       223 instr=0x00000013
+FTCH PC=       224 instr=0x00000013
+FTCH PC=       225 instr=0x00000013
+FTCH PC=       226 instr=0x00000013
+FTCH PC=       227 instr=0x00000013
+FTCH PC=       228 instr=0x00000013
+FTCH PC=       229 instr=0x00000013
+FTCH PC=       230 instr=0x00000013
+FTCH PC=       231 instr=0x00000013
+FTCH PC=       232 instr=0x00000013
+FTCH PC=       233 instr=0x00000013
+FTCH PC=       234 instr=0x00000013
+FTCH PC=       235 instr=0x00000013
+FTCH PC=       236 instr=0x00000013
+FTCH PC=       237 instr=0x00000013
+FTCH PC=       238 instr=0x00000013
+FTCH PC=       239 instr=0x00000013
+FTCH PC=       240 instr=0x00000013
+FTCH PC=       241 instr=0x00000013
+FTCH PC=       242 instr=0x00000013
+FTCH PC=       243 instr=0x00000013
+FTCH PC=       244 instr=0x00000013
+FTCH PC=       245 instr=0x00000013
+FTCH PC=       246 instr=0x00000013
+FTCH PC=       247 instr=0x00000013
+FTCH PC=       248 instr=0x00000013
+FTCH PC=       249 instr=0x00000013
+FTCH PC=       250 instr=0x00000013
+FTCH PC=       251 instr=0x00000013
+FTCH PC=       252 instr=0x00000013
+FTCH PC=       253 instr=0x00000013
+FTCH PC=       254 instr=0x00000013
+FTCH PC=       255 instr=0x00000013
+FTCH PC=       256 instr=0x00000013
+FTCH PC=       257 instr=0x00000013
+FTCH PC=       258 instr=0x00000013
+FTCH PC=       259 instr=0x00000013
+FTCH PC=       260 instr=0x00000013
+FTCH PC=       261 instr=0x00000013
+FTCH PC=       262 instr=0x00000013
+FTCH PC=       263 instr=0x00000013
+FTCH PC=       264 instr=0x00000013
+FTCH PC=       265 instr=0x00000013
+FTCH PC=       266 instr=0x00000013
+FTCH PC=       267 instr=0x00000013
+FTCH PC=       268 instr=0x00000013
+FTCH PC=       269 instr=0x00000013
+FTCH PC=       270 instr=0x00000013
